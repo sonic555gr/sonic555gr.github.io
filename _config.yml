@@ -1,0 +1,10 @@
+pygments: true
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+
+name: Alkiviadis Papadakis
+url: http://alkimo.co.uk
+description: iOS - Software Engineer
+twitter: sonic555gr 
+github: sonic555gr
